@@ -1,0 +1,58 @@
+﻿@using EmailSmsMarketing.Web.Models.AuthModels
+@model AuthViewModel
+@{
+    ViewBag.Title = "Login";
+    ViewBag.TitlePage = "Welcome";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+
+}
+
+@using (Html.BeginForm())
+{
+    using (Html.DevExtreme().ValidationGroup())
+    {
+        @Html.AntiForgeryToken()
+        
+        <div class="dx-fieldset">
+            <div class="dx-field">                                            
+                    @Html.DevExtreme().TextBoxFor(m => m.Username).Label("Username")
+            </div>
+            <div class="dx-field">
+               
+                @(Html.DevExtreme().TextBoxFor(m => m.Password)
+
+                    .Mode(TextBoxMode.Password)
+                    .ID("Password")
+                    .Label("Password")
+                    .Buttons(buttons =>
+                    {
+                        buttons.Add()
+                        .Name("PasswordBtn")
+                        .Location(TextEditorButtonLocation.After)
+                        .Widget(w => w.Button()
+                        .ID("PasswordButton")
+                        .Type(ButtonType.Normal)
+                        .StylingMode(ButtonStylingMode.Text)
+                        .Icon("fa fa-eye")
+                        .OnClick("changePasswordMode"));
+                    })
+                    )
+            </div>
+            <div class="d-flex flex-row justify-content-between align-items-center">
+                <hr/>
+                <div>
+                    <a asp-controller="Account" asp-action="ForgotPassword" class="text-muted">Forgot Password?</a>
+                </div>
+            </div>
+            <div class="mt-2 mb-2 text-end">
+                @(Html.DevExtreme().Button()
+                    .Width("100%")
+                    .Text("Log In")
+                    .Type(ButtonType.Success)
+                    .UseSubmitBehavior(true)
+                    )
+            </div>
+        </div>
+    }
+}
+<script src="~/js/AuthLogin/AuthLogin.js"></script>

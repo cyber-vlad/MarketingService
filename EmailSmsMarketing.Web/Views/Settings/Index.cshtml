@@ -1,0 +1,124 @@
+﻿@model EmailSmsMarketing.Web.Models.ChangePassword.ChangePasswordViewModel
+@{
+    ViewBag.Title = "Settings";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="/css/Settings/side-navbar-settings.css" rel="stylesheet">
+
+<div class="container">
+    <div class="tab">
+        <button class="tablinks" onclick="openOption(event, 'PersonalInfo')" id="defaultOpen">Personal Info</button>
+        <button class="tablinks" onclick="openOption(event, 'ChangePassword')">Change Password</button>
+        <button class="tablinks" onclick="openOption(event, 'EmailSignature')">Email Signature</button>
+    </div>
+
+    <!--Personal Info-->
+    <div id="PersonalInfo" class="tabcontent">
+        <h3>Personal Info</h3>
+
+        @(Html.DevExtreme().TextBoxFor(m => @currentUserService.UserId).LabelMode(EditorLabelMode.Floating).Label("ID").ID("userID").Visible(false))
+
+        <div class="row">
+            <div class="col-md-6">
+                @(Html.DevExtreme().TextBoxFor(m => @currentUserService.FirstName).LabelMode(EditorLabelMode.Floating).Label("First Name").ReadOnly(true))
+            </div>
+
+            <div class="col-md-6">
+                @(Html.DevExtreme().TextBoxFor(m => @currentUserService.LastName).LabelMode(EditorLabelMode.Floating).Label("Last Name").ReadOnly(true))
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                @(Html.DevExtreme().TextBoxFor(m => @currentUserService.Email).LabelMode(EditorLabelMode.Floating).Label("Email").ReadOnly(true))
+            </div>
+
+            <div class="col-md-6">
+                @(Html.DevExtreme().TextBoxFor(m => @currentUserService.Company).LabelMode(EditorLabelMode.Floating).Label("Company").ReadOnly(true))
+            </div>
+        </div>
+        
+    </div>
+
+    <!--Change Password-->
+    <div id="ChangePassword" class="tabcontent">
+        <h3>Change Password</h3>
+        <form asp-controller="Settings" asp-action="ChangePassword" mehod="POST" autocomplete="off">
+            @Html.AntiForgeryToken()
+            <div class="row">
+                <div class="col-md-4">
+                    @(Html.DevExtreme().TextBoxFor(m => m.OldPassword).Mode(TextBoxMode.Password).LabelMode(EditorLabelMode.Floating).Label("Old Password").ID("OldPassword")
+                        .Buttons(buttons =>
+                        {
+                            buttons.Add()
+                            .Name("oldPasswordBtn")
+                            .Location(TextEditorButtonLocation.After)
+                            .Widget(w => w.Button()
+                            .ID("oldPasswordButton")
+                            .Type(ButtonType.Normal)
+                            .StylingMode(ButtonStylingMode.Text)
+                            .Icon("fa fa-eye")
+                            .OnClick("changeOldPasswordMode"));
+                        }))
+                </div>
+
+                <div class="col-md-4">
+                    @(Html.DevExtreme().TextBoxFor(m => m.NewPassword).Mode(TextBoxMode.Password).LabelMode(EditorLabelMode.Floating).Label("New Password").ID("NewPassword")
+                        .Buttons(buttons =>
+                        {
+                            buttons.Add()
+                            .Name("newPasswordBtn")
+                            .Location(TextEditorButtonLocation.After)
+                            .Widget(w => w.Button()
+                            .ID("newPasswordButton")
+                            .Type(ButtonType.Normal)
+                            .StylingMode(ButtonStylingMode.Text)
+                            .Icon("fa fa-eye")
+                            .OnClick("changeNewPasswordMode"));
+                        })
+                        )
+                </div>
+
+                <div class="col-md-4">
+                    @(Html.DevExtreme().TextBoxFor(m => m.ConfirmNewPassword).Mode(TextBoxMode.Password).LabelMode(EditorLabelMode.Floating).Label("Confirm New Password").ID("ConfirmPassword")
+                        .Buttons(buttons =>
+                        {
+                            buttons.Add()
+                            .Name("confirmPasswordBtn")
+                            .Location(TextEditorButtonLocation.After)
+                            .Widget(w => w.Button()
+                            .ID("confirmPasswordButton")
+                            .Type(ButtonType.Normal)
+                            .StylingMode(ButtonStylingMode.Text)
+                            .Icon("fa fa-eye")
+                            .OnClick("changeConfirmPasswordMode"));
+                        }))
+                </div>
+
+            </div>
+
+            <div class="col-md-12 mt-3">
+                <div style="display: flex; justify-content: flex-end;">
+                    @(Html.DevExtreme()
+                    .Button()
+                    .Type(ButtonType.Success)
+                    .Text("Save")
+                    .Icon("save")
+                    .Width(125)
+                    .UseSubmitBehavior(true)
+                    )
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div id="EmailSignature" class="tabcontent">
+        <h3>Email Signature</h3>
+        <p>Email Signature is the capital of Settings.</p>
+    </div>
+</div>
+
+<script src="~/js/Settings/changePasswordDevexpress.js"></script>
+<script src="~/js/Settings/upsertSettings.js"></script>
+<script src="/js/Settings/SideNavbarSettings.js"></script>

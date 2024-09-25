@@ -1,0 +1,33 @@
+﻿@model EmailSmsMarketing.Web.Models.ContactLists.Delete.DeleteContactListViewModel
+
+    <h4 class="px-2" style="color:#495057">
+        Are you sure you want to delete this item? Please type into the field below: 
+    </h4>
+
+    <h4 class="px-2 "style="color:cadetblue;"><b>@Model.Name</b></h4>
+<script src="~/js/ContactsList/Create/CreateContactsListDevexpress.js"></script>
+
+<form name="deleteContacts" asp-controller="ContactList" asp-action="DeleteContactList" method="POST" autocomplete="off">
+    @(Html.DevExtreme().TextBoxFor(model => model.ID).ID("ID").Label("ID").LabelMode(EditorLabelMode.Floating).Visible(false))
+    @(Html.DevExtreme().TextBoxFor(model => model.Name).ID("Name").Label("Name").LabelMode(EditorLabelMode.Floating).Visible(false))
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-12 mb-3">
+                @(Html.DevExtreme().TextBoxFor(model => model.ConfirmName).ID("ConfirmName").Label("Confirm Name").LabelMode(EditorLabelMode.Floating).ReadOnly(false))
+            </div>
+
+            <div class="col-md-6">
+                @(Html.DevExtreme().TextBoxFor(model => model.Email).ID("Email").Label("Email").ReadOnly(true))
+            </div>
+
+            <div class="col-md-6">
+                @(Html.DevExtreme().TextBoxFor(model => model.Phone).ID("Phone").Label("Phone Number").ReadOnly(true))
+            </div>
+        </div>
+    </div>
+    <br/>
+    <div class="modal-footer">
+        @(Html.DevExtreme().Button().Type(ButtonType.Normal).Text("Close").Icon("close").OnClick("closeModalClick"))
+        @(Html.DevExtreme().Button().Type(ButtonType.Danger).Text("Delete").Icon("trash").OnClick("onDeleteClick"))
+    </div>
+</form>

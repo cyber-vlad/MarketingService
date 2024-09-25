@@ -1,0 +1,15 @@
+﻿@using EmailSmsMarketing.Web.Models.ContactLists.List;
+@model List<ContactListsViewModel>
+@{
+    ViewBag.Title = "Contact List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card" style="margin-top: 50px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    
+    <div class="card-body">
+        <div id="contactsListTable" class="col-lg-12"></div>
+    </div>
+</div>
+
+<script src="~/js/ContactsList/List/ContactsListDevexpress.js" asp-append-version="true"></script>

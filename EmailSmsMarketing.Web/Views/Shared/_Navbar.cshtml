@@ -1,0 +1,57 @@
+﻿<nav>
+    <div class="logo-container">
+        <img src="~/assets/images/email-white.svg" class="logo" />
+    </div>
+    <ul class="nav-links">
+        <li><a asp-controller="Home" asp-action="Index">Dashboard</a></li>
+        <li>
+            <div class="dropdown">
+                <a href="#" class="dropbtn">SMS <i class="fas fa-chevron-down"></i></a>
+                <div class="dropdown-content">
+                    <a href="#">Create SMS Newsletter</a>
+                    <a href="#">SMS Newsletter</a>
+                </div>
+            </div>
+        </li>
+        <li>
+            <div class="dropdown">
+                <a href="#" class="dropbtn">Email <i class="fas fa-chevron-down"></i></a>
+                <div class="dropdown-content">
+                    <a href="#">Create Email Newsletter</a>
+                    <a href="#">Email Newsletter</a>
+                    <a href="#">Template List</a>
+                </div>
+            </div>
+        </li>
+        <li><a asp-controller="ContactList" asp-action="Index" method="get" >Contact Lists</a></li>
+    </ul>
+
+    <span style="color: #fff; margin-right: 20px; font-size: 20px;">@currentUserService.Company | </span>
+     
+    <h4 onclick="toggleMenu()">@currentUserService.FullName <i class="fas fa-chevron-down arrow"></i></h4>
+
+    <div class="sub-menu-wrap" id="subMenu">
+        <div class="sub-menu">
+            <a asp-controller="Settings" asp-action="Index" method="get" class="sub-menu-link">
+                <img src="~/assets/images/setting.png" />
+                <p>Settings</p>
+            </a>
+            <a asp-controller="Account" asp-action="LockScreen" class="sub-menu-link">
+                <img src="~/assets/images/lock-screen.png" />
+                <p>Lock Screen</p>
+            </a>
+            <a asp-controller="Account" asp-action="Logout" method="get" class="sub-menu-link">
+                <img src="~/assets/images/logout.png" />
+                <p>Log Out</p>
+            </a>
+        </div>
+    </div>
+</nav>
+
+<script>
+    let subMenu = document.getElementById("subMenu"); 
+
+    function toggleMenu() {
+        subMenu.classList.toggle("open-menu");
+    }
+</script>

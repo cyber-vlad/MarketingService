@@ -1,0 +1,31 @@
+﻿@model EmailSmsMarketing.Web.Models.ContactLists.Create.ImportContactListViewModel
+
+<h3 class="message-text">Create contact list:</h3>
+<script src="~/js/ContactsList/Create/CreateContactsListDevexpress.js"></script>
+
+<form name="importContacts" asp-controller="ContactList" asp-action="CreateContactList" method="POST">
+    @(Html.DevExtreme().TextBoxFor(model => model.FileString).ID("FileString").Label("FileString").LabelMode(EditorLabelMode.Floating).Visible(false))
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-12 mb-3">
+                @(Html.DevExtreme().TextBoxFor(model => model.Name).ID("Name").Label("Name").LabelMode(EditorLabelMode.Floating))
+            </div>
+            
+            @(Html.DevExtreme().FileUploader()
+                .ID("File")
+                .Name("File")
+                .SelectButtonText("Select file")
+                .LabelText("'.xlsx' format is only allowed")
+                .Accept(".xlsx")
+                .UploadMode(FileUploadMode.UseForm)
+                .OnValueChanged("onFileInput"))
+        </div>
+    </div>
+    <div class="modal-footer">
+        @(Html.DevExtreme().Button().Type(ButtonType.Normal).Text("Close").Icon("close").OnClick("closeModalClick"))
+        @(Html.DevExtreme().Button().Type(ButtonType.Success).Text("Save").Icon("save").OnClick("onSubmitClick"))
+    </div>
+</form>
+
+
+    

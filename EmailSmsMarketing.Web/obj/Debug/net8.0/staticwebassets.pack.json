@@ -1,0 +1,1881 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EmailSmsMarketing.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EmailSmsMarketing.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\css\\app.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\css\\app.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\app.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\css\\icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\css\\icons.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\dripicons-v2.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.eot"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\dripicons-v2.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.svg"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\dripicons-v2.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\dripicons-v2.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.woff"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\summernote.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\summernote.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\summernote.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\demo\\horizontal-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\horizontal-1.png"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\demo\\horizontal-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\horizontal-2.png"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\demo\\horizontal-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\horizontal-3.png"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\demo\\horizontal-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\horizontal-4.png"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\demo\\vertical-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\vertical-1.png"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\demo\\vertical-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\vertical-2.png"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\demo\\vertical-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\vertical-3.png"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\demo\\vertical-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\vertical-4.png"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\demo\\vertical-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\vertical-5.png"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\demo\\vertical-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\vertical-6.png"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\email-white.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\email-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\email.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\email.svg"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\flags\\ro.png",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ro.png"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\flags\\russia.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\russia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\flags\\us.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\lock-screen.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lock-screen.png"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\logo-light.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\logo-sm.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-sm.png"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\logout.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logout.png"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\no-photo.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\no-photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\profile.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile.png"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\setting.png",
+      "PackagePath": "staticwebassets\\assets\\images\\setting.png"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\images\\user.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\jquery\\core.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\metismenu\\cjs\\index.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\metismenu\\cjs\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\metismenu\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\metismenu\\metisMenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\metismenu\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\metismenu\\metisMenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\metismenu\\modules\\index.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\metismenu\\modules\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\af.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ar-dz.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ar-dz.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ar-kw.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ar-kw.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ar-ly.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ar-ly.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ar-ma.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ar-ma.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ar-sa.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ar-sa.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ar-tn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ar-tn.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ar.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\az.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\be.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\be.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\bg.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\bm.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\bm.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\bn-bd.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\bn-bd.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\bn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\bn.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\bo.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\bo.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\br.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\br.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\bs.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ca.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\cs.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\cv.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\cv.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\cy.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\da.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\de-at.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\de-at.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\de-ch.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\de.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\dv.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\dv.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\el.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\en-au.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\en-ca.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\en-gb.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\en-ie.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\en-ie.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\en-il.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\en-il.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\en-in.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\en-in.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\en-nz.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\en-nz.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\en-sg.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\en-sg.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\eo.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\es-do.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\es-do.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\es-mx.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\es-us.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\es-us.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\es.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\et.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\eu.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\fa.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\fi.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\fil.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\fil.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\fo.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\fo.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\fr-ca.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\fr-ch.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\fr-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\fr.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\fy.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\fy.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ga.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ga.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\gd.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\gd.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\gl.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\gom-deva.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\gom-deva.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\gom-latn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\gom-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\gu.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\he.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\hi.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\hr.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\hu.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\hy-am.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\hy-am.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\id.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\is.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\is.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\it-ch.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\it-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\it.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ja.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\jv.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\jv.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ka.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ka.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\kk.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\kk.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\km.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\kn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\kn.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ko.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ku.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ky.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ky.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\lb.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\lb.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\lo.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\lo.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\lt.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\lv.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\me.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\me.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\mi.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\mi.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\mk.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ml.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ml.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\mn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\mn.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\mr.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\mr.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ms-my.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ms-my.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ms.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\mt.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\mt.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\my.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\my.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\nb.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ne.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ne.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\nl-be.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\nl-be.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\nl.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\nn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\nn.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\oc-lnc.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\oc-lnc.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\pa-in.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\pa-in.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\pl.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\pt-br.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\pt.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ro.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ru.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\sd.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\sd.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\se.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\se.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\si.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\sk.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\sl.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\sq.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\sr-cyrl.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\sr.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ss.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ss.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\sv.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\sw.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\sw.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ta.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ta.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\te.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\te.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\tet.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\tet.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\tg.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\tg.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\th.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\tk.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\tk.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\tl-ph.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\tl-ph.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\tlh.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\tlh.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\tr.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\tzl.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\tzl.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\tzm-latn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\tzm-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\tzm.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\tzm.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ug-cn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ug-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\uk.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\ur.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ur.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\uz-latn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\uz-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\uz.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\uz.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\vi.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\x-pseudo.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\x-pseudo.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\yo.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\yo.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\zh-cn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\zh-hk.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\zh-hk.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\zh-mo.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\zh-mo.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\locale\\zh-tw.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\zh-tw.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\moment\\moment.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\node-waves\\waves.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\node-waves\\waves.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\node-waves\\waves.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\node-waves\\waves.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\popper.js\\esm\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\popper.js\\esm\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\popper.js\\esm\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\popper.js\\esm\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\popper.js\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\popper.js\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\popper.js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\popper.js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\popper.js\\umd\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\popper.js\\umd\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\popper.js\\umd\\popper.js.flow",
+      "PackagePath": "staticwebassets\\assets\\libs\\popper.js\\umd\\popper.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\popper.js\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\popper.js\\umd\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\simplebar\\simplebar-core.esm.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\simplebar\\simplebar-core.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\simplebar\\simplebar.esm.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\simplebar\\simplebar.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\simplebar\\simplebar.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\simplebar\\simplebar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\simplebar\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\simplebar\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\assets\\libs\\simplebar\\simplebar.umd.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\simplebar\\simplebar.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\Dialog.css",
+      "PackagePath": "staticwebassets\\css\\Dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\Frames.css",
+      "PackagePath": "staticwebassets\\css\\Frames.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\Settings\\side-navbar-settings.css",
+      "PackagePath": "staticwebassets\\css\\Settings\\side-navbar-settings.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\card-hover.css",
+      "PackagePath": "staticwebassets\\css\\card-hover.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx-diagram.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx-diagram.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx-diagram.min.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx-diagram.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx-gantt.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx-gantt.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx-gantt.min.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx-gantt.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.carmine.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.carmine.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.carmine.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.carmine.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.common.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.common.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.contrast.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.contrast.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.contrast.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.contrast.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.dark.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.dark.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.dark.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.dark.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.darkmoon.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.darkmoon.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.darkmoon.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.darkmoon.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.darkviolet.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.darkviolet.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.darkviolet.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.darkviolet.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.fluent.blue.dark.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.fluent.blue.dark.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.fluent.blue.dark.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.fluent.blue.dark.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.fluent.blue.light.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.fluent.blue.light.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.fluent.blue.light.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.fluent.blue.light.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.fluent.saas.dark.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.fluent.saas.dark.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.fluent.saas.dark.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.fluent.saas.dark.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.fluent.saas.light.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.fluent.saas.light.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.fluent.saas.light.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.fluent.saas.light.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.greenmist.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.greenmist.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.greenmist.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.greenmist.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.light.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.light.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.light.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.light.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.blue.dark.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.blue.dark.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.blue.dark.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.blue.dark.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.blue.light.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.blue.light.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.blue.light.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.blue.light.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.lime.dark.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.lime.dark.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.lime.dark.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.lime.dark.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.lime.light.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.lime.light.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.lime.light.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.lime.light.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.orange.dark.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.orange.dark.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.orange.dark.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.orange.dark.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.orange.light.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.orange.light.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.orange.light.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.orange.light.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.purple.dark.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.purple.dark.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.purple.dark.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.purple.dark.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.purple.light.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.purple.light.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.purple.light.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.purple.light.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.teal.dark.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.teal.dark.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.teal.dark.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.teal.dark.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.teal.light.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.teal.light.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.material.teal.light.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.material.teal.light.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.softblue.compact.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.softblue.compact.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\dx.softblue.css",
+      "PackagePath": "staticwebassets\\css\\devextreme\\dx.softblue.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\fonts\\Roboto-300.ttf",
+      "PackagePath": "staticwebassets\\css\\devextreme\\fonts\\Roboto-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\fonts\\Roboto-300.woff",
+      "PackagePath": "staticwebassets\\css\\devextreme\\fonts\\Roboto-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\fonts\\Roboto-300.woff2",
+      "PackagePath": "staticwebassets\\css\\devextreme\\fonts\\Roboto-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\fonts\\Roboto-400.ttf",
+      "PackagePath": "staticwebassets\\css\\devextreme\\fonts\\Roboto-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\fonts\\Roboto-400.woff",
+      "PackagePath": "staticwebassets\\css\\devextreme\\fonts\\Roboto-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\fonts\\Roboto-400.woff2",
+      "PackagePath": "staticwebassets\\css\\devextreme\\fonts\\Roboto-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\fonts\\Roboto-500.ttf",
+      "PackagePath": "staticwebassets\\css\\devextreme\\fonts\\Roboto-500.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\fonts\\Roboto-500.woff",
+      "PackagePath": "staticwebassets\\css\\devextreme\\fonts\\Roboto-500.woff"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\fonts\\Roboto-500.woff2",
+      "PackagePath": "staticwebassets\\css\\devextreme\\fonts\\Roboto-500.woff2"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\fonts\\Roboto-700.ttf",
+      "PackagePath": "staticwebassets\\css\\devextreme\\fonts\\Roboto-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\fonts\\Roboto-700.woff",
+      "PackagePath": "staticwebassets\\css\\devextreme\\fonts\\Roboto-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\fonts\\Roboto-700.woff2",
+      "PackagePath": "staticwebassets\\css\\devextreme\\fonts\\Roboto-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\icons\\dxicons.ttf",
+      "PackagePath": "staticwebassets\\css\\devextreme\\icons\\dxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\icons\\dxicons.woff",
+      "PackagePath": "staticwebassets\\css\\devextreme\\icons\\dxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\icons\\dxicons.woff2",
+      "PackagePath": "staticwebassets\\css\\devextreme\\icons\\dxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\icons\\dxiconsfluent.ttf",
+      "PackagePath": "staticwebassets\\css\\devextreme\\icons\\dxiconsfluent.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\icons\\dxiconsfluent.woff",
+      "PackagePath": "staticwebassets\\css\\devextreme\\icons\\dxiconsfluent.woff"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\icons\\dxiconsfluent.woff2",
+      "PackagePath": "staticwebassets\\css\\devextreme\\icons\\dxiconsfluent.woff2"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\icons\\dxiconsmaterial.ttf",
+      "PackagePath": "staticwebassets\\css\\devextreme\\icons\\dxiconsmaterial.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\icons\\dxiconsmaterial.woff",
+      "PackagePath": "staticwebassets\\css\\devextreme\\icons\\dxiconsmaterial.woff"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\devextreme\\icons\\dxiconsmaterial.woff2",
+      "PackagePath": "staticwebassets\\css\\devextreme\\icons\\dxiconsmaterial.woff2"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\dropdown-button.css",
+      "PackagePath": "staticwebassets\\css\\dropdown-button.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\navbar.css",
+      "PackagePath": "staticwebassets\\css\\navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\css\\toastr.min.css",
+      "PackagePath": "staticwebassets\\css\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\AuthLogin\\AuthLogin.js",
+      "PackagePath": "staticwebassets\\js\\AuthLogin\\AuthLogin.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\ContactsList\\ContactList\\ChangeTitle\\ChangeTitleContactListDevexpress.js",
+      "PackagePath": "staticwebassets\\js\\ContactsList\\ContactList\\ChangeTitle\\ChangeTitleContactListDevexpress.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\ContactsList\\ContactList\\ChangeTitle\\SubmitChange.js",
+      "PackagePath": "staticwebassets\\js\\ContactsList\\ContactList\\ChangeTitle\\SubmitChange.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\ContactsList\\ContactList\\Create\\CreateContactListDevexpress.js",
+      "PackagePath": "staticwebassets\\js\\ContactsList\\ContactList\\Create\\CreateContactListDevexpress.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\ContactsList\\ContactList\\List\\ContactListDevexpress.js",
+      "PackagePath": "staticwebassets\\js\\ContactsList\\ContactList\\List\\ContactListDevexpress.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\ContactsList\\Create\\CreateContactsListDevexpress.js",
+      "PackagePath": "staticwebassets\\js\\ContactsList\\Create\\CreateContactsListDevexpress.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\ContactsList\\List\\ContactsListDevexpress.js",
+      "PackagePath": "staticwebassets\\js\\ContactsList\\List\\ContactsListDevexpress.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\ISESM.js",
+      "PackagePath": "staticwebassets\\js\\ISESM.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\ISESMDevextreme.js",
+      "PackagePath": "staticwebassets\\js\\ISESMDevextreme.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\LockScreen\\inactive-user.js",
+      "PackagePath": "staticwebassets\\js\\LockScreen\\inactive-user.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\LockScreen\\lockScreen.js",
+      "PackagePath": "staticwebassets\\js\\LockScreen\\lockScreen.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\Settings\\SideNavbarSettings.js",
+      "PackagePath": "staticwebassets\\js\\Settings\\SideNavbarSettings.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\Settings\\changePasswordDevexpress.js",
+      "PackagePath": "staticwebassets\\js\\Settings\\changePasswordDevexpress.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\Settings\\upsertSettings.js",
+      "PackagePath": "staticwebassets\\js\\Settings\\upsertSettings.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\User.js",
+      "PackagePath": "staticwebassets\\js\\User.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\FileSaver.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\FileSaver.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\FileSaver.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\FileSaver.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\aspnet\\dx.aspnet.data.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\aspnet\\dx.aspnet.data.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\aspnet\\dx.aspnet.mvc.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\aspnet\\dx.aspnet.mvc.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\cldr.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\cldr.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\cldr.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\cldr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\cldr\\event.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\cldr\\event.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\cldr\\event.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\cldr\\event.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\cldr\\supplemental.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\cldr\\supplemental.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\cldr\\supplemental.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\cldr\\supplemental.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\cldr\\unresolved.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\cldr\\unresolved.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\cldr\\unresolved.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\cldr\\unresolved.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\dx-diagram.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\dx-diagram.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\dx-diagram.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\dx-diagram.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\dx-gantt.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\dx-gantt.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\dx-gantt.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\dx-gantt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\dx-quill.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\dx-quill.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\dx-quill.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\dx-quill.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\dx.all.debug.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\dx.all.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\dx.all.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\dx.all.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\dx.viz.debug.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\dx.viz.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\dx.viz.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\dx.viz.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\dx.web.debug.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\dx.web.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\dx.web.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\dx.web.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\exceljs.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\exceljs.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\exceljs.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\exceljs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\globalize.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\globalize.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\globalize.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\globalize.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\globalize\\currency.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\globalize\\currency.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\globalize\\currency.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\globalize\\currency.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\globalize\\date.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\globalize\\date.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\globalize\\date.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\globalize\\date.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\globalize\\message.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\globalize\\message.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\globalize\\message.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\globalize\\message.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\globalize\\number.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\globalize\\number.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\globalize\\number.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\globalize\\number.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\jspdf.plugin.autotable.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\jspdf.plugin.autotable.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\jspdf.plugin.autotable.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\jspdf.plugin.autotable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\jspdf.umd.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\jspdf.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\jspdf.umd.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\jspdf.umd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\jszip.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\jszip.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\jszip.min.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.ar.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.ar.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.ca.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.ca.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.cs.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.cs.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.de.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.de.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.el.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.el.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.en.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.en.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.es.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.es.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.fa.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.fa.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.fi.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.fi.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.fr.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.fr.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.hu.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.hu.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.it.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.it.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.ja.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.ja.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.lt.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.lt.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.lv.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.lv.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.nb.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.nb.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.nl.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.nl.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.pl.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.pl.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.pt.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.pt.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.ro.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.ro.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.ru.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.ru.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.sl.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.sl.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.sv.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.sv.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.tr.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.tr.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.vi.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.vi.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.zh-tw.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.zh-tw.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\localization\\dx.messages.zh.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\localization\\dx.messages.zh.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\vectormap-data\\africa.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\vectormap-data\\africa.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\vectormap-data\\canada.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\vectormap-data\\canada.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\vectormap-data\\eurasia.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\vectormap-data\\eurasia.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\vectormap-data\\europe.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\vectormap-data\\europe.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\vectormap-data\\usa.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\vectormap-data\\usa.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\vectormap-data\\world.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\vectormap-data\\world.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\vectormap-utils\\dx.vectormaputils.debug.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\vectormap-utils\\dx.vectormaputils.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\vectormap-utils\\dx.vectormaputils.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\vectormap-utils\\dx.vectormaputils.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\devextreme\\vectormap-utils\\dx.vectormaputils.node.js",
+      "PackagePath": "staticwebassets\\js\\devextreme\\vectormap-utils\\dx.vectormaputils.node.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\reloadHandler.js",
+      "PackagePath": "staticwebassets\\js\\reloadHandler.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\js\\toastr.min.js",
+      "PackagePath": "staticwebassets\\js\\toastr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KramerOxxx\\source\\repos\\EmailSmsMarketing_ISProject\\EmailSmsMarketing.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmailSmsMarketing.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EmailSmsMarketing.Web.props",
+      "PackagePath": "build\\EmailSmsMarketing.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EmailSmsMarketing.Web.props",
+      "PackagePath": "buildMultiTargeting\\EmailSmsMarketing.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EmailSmsMarketing.Web.props",
+      "PackagePath": "buildTransitive\\EmailSmsMarketing.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

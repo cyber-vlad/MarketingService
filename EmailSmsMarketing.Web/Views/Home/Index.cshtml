@@ -1,0 +1,92 @@
+﻿@using EmailSmsMarketing.Web.Models.Chart;
+@{
+    var smsData = (List<ChartData>)ViewData["SmsData"];
+    var emailData = (List<ChartData>)ViewData["EmailData"];
+}
+
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+ <style>
+    #chart {
+        height: 440px;
+    }
+
+    .active {
+        font-weight: 500;
+    }
+
+    .chart-container {
+        display: flex;
+        justify-content: space-around;
+        align-items: flex-start;
+        margin-top: 100px;
+    }
+
+    .chart-box {
+        width: 45%;
+    }
+
+</style>
+
+<div class="chart-container">
+    <div class="chart-box">
+       @( @Html.DevExtreme().Chart()
+        .ID("smsChart")
+        .Palette(VizPalette.Vintage)
+        .CommonSeriesSettings(s => s
+        .ArgumentField("Category")
+        .Type(SeriesType.Bar)
+        )
+        .Series(s => {
+        s.Add().ValueField("Value").Name("SMS Status");
+        })
+        .ValueAxis(a => {
+        a.Add().Grid(g => g.Visible(true))
+        .Title(t => t.Text("Number of SMS Messages"));
+        })
+        .Tooltip(t => t
+        .Enabled(true)
+        .Shared(true)
+        .Format(f => f.Type(Format.LargeNumber).Precision(1))
+        )
+        .Legend(l => l
+        .VerticalAlignment(VerticalEdge.Bottom)
+        .HorizontalAlignment(HorizontalAlignment.Center)
+        )
+        .Export(e => e.Enabled(true))
+        .Title(t => t.Text("SMS Overview this Month"))
+        .DataSource(smsData))
+    </div>
+
+    <div class="chart-box">
+        @(@Html.DevExtreme().Chart()
+        .ID("emailChart")
+        .Palette(VizPalette.SoftPastel)
+        .CommonSeriesSettings(s => s
+        .ArgumentField("Category")
+        .Type(SeriesType.Bar)
+        )
+        .Series(s => {
+        s.Add().ValueField("Value").Name("Email Status");
+        })
+        .ValueAxis(a => {
+        a.Add().Grid(g => g.Visible(true))
+        .Title(t => t.Text("Number of Email Messages"));
+        })
+        .Tooltip(t => t
+        .Enabled(true)
+        .Shared(true)
+        .Format(f => f.Type(Format.LargeNumber).Precision(1))
+        )
+        .Legend(l => l
+        .VerticalAlignment(VerticalEdge.Bottom)
+        .HorizontalAlignment(HorizontalAlignment.Center)
+        )
+        .Export(e => e.Enabled(true))
+        .Title(t => t.Text("Email Overview this Month"))
+        .DataSource(emailData))
+    </div>
+</div>

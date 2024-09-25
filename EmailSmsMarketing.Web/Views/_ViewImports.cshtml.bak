@@ -1,0 +1,3 @@
+﻿@using EmailSmsMarketing.Web
+@using EmailSmsMarketing.Web.Models
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers

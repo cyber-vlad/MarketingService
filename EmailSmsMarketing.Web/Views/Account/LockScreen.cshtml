@@ -1,0 +1,52 @@
+﻿@using EmailSmsMarketing.Web.Models.User;
+@model UserClaimViewModel
+@{
+    ViewBag.Title = "LockScreen";
+    ViewBag.TitlePage = "Lock Screen";
+    ViewBag.Description = "Enter your password to regain access";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+<br/>
+<div class="user-thumb text-center mb-4">
+    <img src="~/assets/images/no-photo.jpg" class="rounded-circle img-thumbnail avatar-lg" alt="thumbnail" style="object-fit:cover">
+    <h5 class="font-size-15 mt-3">@currentUserService.FullName</h5>
+</div>
+<form name="lockScreenForm" asp-controller="Account" asp-action="LockScreen" mehod="POST">
+   
+   
+
+    <div class="dx-field">
+        @(Html.DevExtreme().TextBoxFor(m => m.Password).Mode(TextBoxMode.Password).LabelMode(EditorLabelMode.Static).Label("Password").ID("Password").Name("Password")
+            .Buttons(buttons =>
+            {
+                buttons.Add()
+                .Name("passwordBtn")
+                .Location(TextEditorButtonLocation.After)
+                .Widget(w => w.Button()
+                .ID("passwordButton")
+                .Type(ButtonType.Normal)
+                .StylingMode(ButtonStylingMode.Text)
+                .Icon("fa fa-eye")
+                .OnClick("changePasswordMode"));
+            })
+            )
+    </div>
+    <div class="text-end">
+        <a href="/Account/ForgotPassword" class="text-muted">Forgot Password?</a>
+    </div>
+
+    <div class="mt-2 mb-2 text-end">
+        @(Html.DevExtreme().Button().Type(ButtonType.Success).Width("100%").Text("Unlock").UseSubmitBehavior(true))
+    </div>
+    <div class="mt-4 text-center">
+        <p class="mb-0">Not your account? Return to <a href="@Url.Action("Login", "Account")" class="fw-medium text-primary"> Login Page </a></p>
+    </div>
+
+    @(Html.DevExtreme().TextBoxFor(m => m.Email).ID("Email").LabelMode(EditorLabelMode.Floating).Visible(false))
+    @(Html.DevExtreme().TextBoxFor(m => m.Id).ID("Id").LabelMode(EditorLabelMode.Floating).Visible(false))
+    @(Html.DevExtreme().TextBoxFor(m => m.FullName).ID("FullName").LabelMode(EditorLabelMode.Floating).Visible(false))
+    @(Html.DevExtreme().TextBoxFor(m => m.UiLanguage).ID("UiLanguage").LabelMode(EditorLabelMode.Floating).Visible(false))
+    @(Html.DevExtreme().TextBoxFor(m => m.Picture).ID("Picture").LabelMode(EditorLabelMode.Floating).Visible(false))
+</form> 
+<script src="~/js/LockScreen/lockScreen.js"></script>

@@ -1,0 +1,5 @@
+C:\Users\KramerOxxx\source\repos\EmailSmsMarketing - Copy\EmailSmsMarketing.BusinessLogic\obj\Release\net8.0\EmailSmsMarketing.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\KramerOxxx\source\repos\EmailSmsMarketing - Copy\EmailSmsMarketing.BusinessLogic\obj\Release\net8.0\EmailSmsMarketing.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KramerOxxx\source\repos\EmailSmsMarketing - Copy\EmailSmsMarketing.BusinessLogic\obj\Release\net8.0\EmailSmsMarketing.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\KramerOxxx\source\repos\EmailSmsMarketing - Copy\EmailSmsMarketing.BusinessLogic\obj\Release\net8.0\EmailSmsMarketing.BusinessLogic.AssemblyInfo.cs
+C:\Users\KramerOxxx\source\repos\EmailSmsMarketing - Copy\EmailSmsMarketing.BusinessLogic\obj\Release\net8.0\EmailSmsMarketing.BusinessLogic.csproj.CoreCompileInputs.cache

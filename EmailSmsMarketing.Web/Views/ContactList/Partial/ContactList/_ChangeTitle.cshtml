@@ -1,0 +1,27 @@
+﻿@using EmailSmsMarketing.Web.Models.ContactLists.List;
+@model ContactListsViewModel
+<h3 class="message-text">Change Title</h3>
+
+<script src="~/js/ContactsList/ContactList/ChangeTitle/SubmitChange.js" asp-append-version="true"></script>
+<form name="changeTitle" asp-controller="ContactList" asp-action="ChangeTitleContactList" method="POST" autocomplete="off">
+    <div class="col-md-12 mb-3">
+        @(Html.DevExtreme().TextBoxFor(model => model.ID).Visible(false))
+        @(Html.DevExtreme().TextBoxFor(model => model.CreateDate).Visible(false).Value(Model.CreateDate.ToString("yyyy-MM-ddTHH:mm:ss")))
+        @(Html.DevExtreme().TextBoxFor(model => model.Email).Visible(false))
+        @(Html.DevExtreme().TextBoxFor(model => model.Phone).Visible(false))
+        @(Html.DevExtreme().TextBoxFor(model => model.Description).Visible(false))  
+        @(Html.DevExtreme().TextBoxFor(model => model.ContactsData).Visible(false))
+    </div>
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-12 mb-3">
+                @(Html.DevExtreme().TextBoxFor(model => model.Name).ID("Name").Label("Name").LabelMode(EditorLabelMode.Floating))
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="modal-footer">
+        @(Html.DevExtreme().Button().Type(ButtonType.Normal).Text("Close").Icon("close").OnClick("closeModalClick"))
+        @(Html.DevExtreme().Button().Type(ButtonType.Success).Text("Save").Icon("save").OnClick("onSubmitClick"))
+    </div>
+</form>
