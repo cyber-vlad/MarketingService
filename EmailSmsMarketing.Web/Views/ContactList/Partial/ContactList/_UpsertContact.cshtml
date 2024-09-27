@@ -1,0 +1,28 @@
+﻿@model EmailSmsMarketing.Web.Models.ContactList.Upsert.UpsertContactDataViewModel
+
+<script src="~/js/ContactsList/ContactList/Upsert/UpsertContactListDevexpress.js"></script>
+
+<form name="upsertContact" asp-controller="ContactList" asp-action="UpsertContactData" method="POST" autocomplete="off">
+    @(Html.DevExtreme().TextBoxFor(model => model.ID).ID("ID").Label("ID").LabelMode(EditorLabelMode.Floating).Visible(false))
+    @(Html.DevExtreme().TextBoxFor(model => model.ContactListId).ID("ContactListId").Label("ContactListId").LabelMode(EditorLabelMode.Floating).Visible(false))
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-12 ">
+                @(Html.DevExtreme().TextBoxFor(model => model.Name).ID("Name").Label("Name").LabelMode(EditorLabelMode.Floating))
+            </div>
+
+            <div class="col-md-12 ">
+                @(Html.DevExtreme().TextBoxFor(model => model.Email).ID("Email").Label("Email").LabelMode(EditorLabelMode.Floating))
+            </div>
+
+            <div class="col-md-12 ">
+                @(Html.DevExtreme().TextBoxFor(model => model.Phone).ID("Phone").Label("PhoneNumber").LabelMode(EditorLabelMode.Floating))
+            </div>
+        </div>
+    </div>
+    <br/>
+    <div class="modal-footer">
+        @(Html.DevExtreme().Button().Type(ButtonType.Normal).Text("Close").Icon("close").OnClick("closeModalClick"))
+        @(Html.DevExtreme().Button().Type(ButtonType.Success).Text("Save").Icon("save").OnClick("onSubmitClick"))
+    </div>
+</form>

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmailSmsMarketing.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19f65eb3604d8091350f839fae5130f0adae6fdb")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmailSmsMarketing.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmailSmsMarketing.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

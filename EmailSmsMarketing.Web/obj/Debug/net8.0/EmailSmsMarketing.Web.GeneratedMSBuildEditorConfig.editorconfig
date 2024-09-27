@@ -50,6 +50,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdExpc3RcUGFydGlhbFxDb250YWN0TGlzdFxfQ2hhbmdlVGl0bGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/KramerOxxx/source/repos/EmailSmsMarketing_ISProjectGitHub/EmailSmsMarketing.Web/Views/ContactList/Partial/ContactList/_DeleteContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdExpc3RcUGFydGlhbFxDb250YWN0TGlzdFxfRGVsZXRlQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KramerOxxx/source/repos/EmailSmsMarketing_ISProjectGitHub/EmailSmsMarketing.Web/Views/ContactList/Partial/ContactList/_UpsertContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdExpc3RcUGFydGlhbFxDb250YWN0TGlzdFxfVXBzZXJ0Q29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/KramerOxxx/source/repos/EmailSmsMarketing_ISProjectGitHub/EmailSmsMarketing.Web/Views/ContactList/Partial/ContactsList/_CreateList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdExpc3RcUGFydGlhbFxDb250YWN0c0xpc3RcX0NyZWF0ZUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
